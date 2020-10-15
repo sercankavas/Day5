@@ -4,5 +4,7 @@ public class feature3 {
         System.out.println("more");
         System.out.println("more");
         System.out.println("more");
+
+        System.out.println("aded more to line 3");
     }
 }
